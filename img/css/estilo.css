@@ -1,0 +1,114 @@
+header {
+  background-color: rgba(56, 52, 52, 0.719);
+  height: 8em;
+  align-items: center;
+
+}
+
+.logo {
+  margin-top: 1em;
+  padding-top: 2em;
+  padding-bottom: 4em;
+}
+
+.logotext {
+  margin-left: 6em;
+  margin-top: -7em;
+  color: aliceblue;
+
+
+}
+
+section {
+  flex-direction: row;
+  align-items: center;
+}
+
+
+
+.parrafo1 {
+  font-size: 1.2rem;
+  padding-bottom: 8%;
+  padding-left: 10%;
+}
+
+.bottomright {
+  position: absolute;
+  bottom: 80px;
+  right: 16px;
+  font-size: 18px;
+  color: aliceblue;
+}
+
+
+
+
+.contenedor {
+  background-image: url(../img/ba1.jpg);
+  max-width: 100%;
+  height: 40em;
+}
+
+.textoImagen {
+  padding-top: 25em;
+}
+
+
+
+img {
+  width: 50%;
+  height: auto;
+  opacity: 0.8;
+
+}
+
+.recordatorio {
+  margin-left: 9%;
+}
+
+
+.pie {
+  height: 6rem;
+
+  background-image: linear-gradient(to right, rgb(36, 59, 66), rgb(36, 63, 119))
+}
+
+#grad1 {
+  background-color:lightgray ;
+}
+
+.pizarra {
+  background-color: rgb(58, 56, 66);
+}
+
+.nav-item {
+
+  font-size: 1.2rem;
+}
+
+.encabezado {
+
+  background-color: rgb(58, 56, 66);
+}
+
+#inputTotal{
+  background-color: lightgrey;
+}
+
+#borrar {  
+  background-color: green;
+  border-color: green;
+  border-radius: 0.3em;
+  color: white;
+}
+
+#resumen {
+  background-color: green;
+  border-color: green;
+  border-radius: 0.3em;
+  color: white;
+}
+
+#tituloConf {
+  color: white;
+}
